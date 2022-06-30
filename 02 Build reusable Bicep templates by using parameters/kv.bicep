@@ -90,7 +90,7 @@ resource sqlServerAdministratorPassword 'Microsoft.KeyVault/vaults/secrets@2021-
   parent: keyVault
   name: 'sqlServerAdministratorPassword'
   properties: {
-    value: 'ComplexP@ss01!'
+    value: 'ComplexP@ss01'
     attributes: {
       enabled: true
     }
