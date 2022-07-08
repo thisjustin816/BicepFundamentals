@@ -1,0 +1,1 @@
+Remove-AzManagementGroup -GroupId SecretRND
